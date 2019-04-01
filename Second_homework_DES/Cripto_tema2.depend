@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1521531395 source:c:\users\racovi\desktop\anul 2 fii\criptografie\cripto_tema2\main.cpp
-	<iostream>
-	<bitset>
-	<fstream>
-	<math.h>
-
